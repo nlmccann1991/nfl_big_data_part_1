@@ -15,3 +15,5 @@ We hope that this analysis will provide fans and data scientists alike insights 
 - Use Numpy & Pandas packages to take a look into the basics of our data tables and assess tackle efficiency.
 - Evaluate the Ravens, Lions, Chiefs and 49ers on their tackling proficiency and win rate.
 - Look into the tackling performance for the four teams in the 4th quarter to see how these teams adapt to different schemes and in the clutch.
+
+For all the files you need to run this python project, [visit the project's Google Drive folder and download all the files here](https://drive.google.com/drive/folders/1r8ulQvfYV6LxrnXAQPVHjiGrPCq6dG0D?usp=sharing).
