@@ -2,7 +2,7 @@
 
 ### A Project by Noel McCann
 
-<img src="nfl_big_data_part_1/Part_1_cover.jpg" style="width:640px;height:360px;">
+<img src="https://github.com/nlmccann1991/nfl_big_data_part_1/blob/main/Part_1_cover.jpg">
 
 **Purpose of Analysis:**  
 As of January 22, only four teams remain in the NFL playoffs: the Baltimore Ravens, Detroit Lions,  Kansas City Chiefs, and San Francisco 49ers. As we've seen in the Wild Card and Divisional rounds, having a solid defense can make the difference between being a winning team in the regular season and an actual Super Bowl contender. For this and next week's project, we will delve deep into the 2022 season data to understand the defensive style for the final four and uncover insights into their players' performance. 
